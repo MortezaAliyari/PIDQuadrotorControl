@@ -12,6 +12,5 @@ You can see the video: &nbsp;&nbsp;
 - Matlab 2019b or newer
 ### Install 
 1. Image of smulink:
-![simulink Environment](./img/Capture3.PNG)
-2.Image of controller response:
-![Controller response](./img/Capture3.PNG)
+![simulink Environment](./img/Capture123.PNG)
+
